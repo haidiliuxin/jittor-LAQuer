@@ -1,0 +1,82 @@
+[
+    {
+        "docs": [
+            "The Hubble Space Telescope (HST) is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned both as a vital research tool and as a public relations boon for astronomy. The Hubble telescope is named after astronomer Edwin Hubble and is one of NASA's Great Observatories.",
+            "Edwin Hubble was an American astronomer. He played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology. Hubble proved that many objects previously thought to be clouds of dust and gas and classified as \"nebulae\" were actually galaxies beyond the Milky Way."
+        ],
+        "summary": "The Hubble Space Telescope, named after astronomer Edwin Hubble, was launched in 1990 and is a large, versatile space telescope still in operation.",
+        "span": "named after astronomer Edwin Hubble"
+    },
+    {
+        "docs": [
+            "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar. Most life on Earth depends on photosynthesis. The process is carried out by plants, algae, and some types of bacteria, which capture energy from sunlight to produce oxygen (O2) and chemical energy stored in glucose (a sugar).",
+            "Chlorophyll is a green pigment found in plants. Plants use chlorophyll and light to make food. People use chlorophyll as medicine. Common sources of chlorophyll used for medicine include alfalfa, algae, corn, and spinach."
+        ],
+        "summary": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities.",
+        "span": "convert light energy into chemical energy"
+    },
+    {
+        "docs": [
+            "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined together by Qin Shi Huang (220–206 BC), the first emperor of China.",
+            "Qin Shi Huang was the founder of the Qin dynasty and the first emperor of a unified China. He became China's first emperor when he was 38 after the Qin had conquered all of the other Warring States and unified all of China in 221 BC."
+        ],
+        "summary": "The Great Wall of China consists of fortifications built to protect Chinese states, with significant portions connected by Qin Shi Huang, China's first emperor.",
+        "span": "connected by Qin Shi Huang"
+    },
+    {
+        "docs": [
+            "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.",
+            "Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0. Python 2.0 was released in 2000. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions."
+        ],
+        "summary": "Python is a high-level programming language known for readability, created by Guido van Rossum and released in 1991.",
+        "span": "created by Guido van Rossum"
+    },
+    {
+        "docs": [
+            "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed \"La Dame de Fer\" (French for \"The Iron Lady\"), it was constructed from 1887 to 1889 as the centerpiece of the 1889 World's Fair.",
+            "Gustave Eiffel was a French civil engineer. A graduate of École Centrale des Arts et Manufactures, he made his name with various bridges for the French railway network, most famously the Garabit viaduct. He is best known for the world-famous Eiffel Tower, built for the 1889 Universal Exposition in Paris."
+        ],
+        "summary": "The Eiffel Tower in Paris was designed by Gustave Eiffel's company and built for the 1889 World's Fair.",
+        "span": "built for the 1889 World's Fair"
+    },
+    {
+        "docs": [
+            "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks. It is seen as a part of artificial intelligence.",
+            "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised."
+        ],
+        "summary": "Machine learning involves methods that learn from data, and deep learning is a subset of ML based on neural networks.",
+        "span": "deep learning is a subset of ML"
+    },
+    {
+        "docs": [
+            "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person and the only woman to win the Nobel Prize twice, and the only person to win the Nobel Prize in two different scientific fields.",
+            "Radioactivity is the process by which an unstable atomic nucleus loses energy by radiation. A material containing unstable nuclei is considered radioactive. Three of the most common types of decay are alpha decay, beta decay, and gamma decay."
+        ],
+        "summary": "Marie Curie was a physicist and chemist who pioneered radioactivity research and was the first person to win Nobel Prizes in two different fields.",
+        "span": "first person to win Nobel Prizes in two different fields"
+    },
+    {
+        "docs": [
+            "The Amazon rainforest is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America. This basin encompasses 7,000,000 km2 (2,700,000 sq mi), of which 5,500,000 km2 (2,100,000 sq mi) are covered by the rainforest.",
+            "Deforestation of the Amazon rainforest has accelerated since the 20th century. The forest is being cleared for cattle ranching, logging, and agriculture. This loss of forest cover contributes to climate change and biodiversity loss."
+        ],
+        "summary": "The Amazon rainforest covers a vast area of South America but faces accelerated deforestation for cattle ranching and agriculture.",
+        "span": "faces accelerated deforestation"
+    },
+    {
+        "docs": [
+            "Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles. It is the foundation of all quantum physics including quantum chemistry, quantum field theory, quantum technology, and quantum information science.",
+            "Albert Einstein was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time. Best known for developing the theory of relativity, he also made important contributions to the development of the theory of quantum mechanics."
+        ],
+        "summary": "Quantum mechanics describes nature at the atomic scale, and Albert Einstein contributed to its development despite being best known for relativity.",
+        "span": "contributed to its development"
+    },
+    {
+        "docs": [
+            "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as \"the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world\".",
+            "Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. He is widely considered one of the greatest painters of all time."
+        ],
+        "summary": "The Mona Lisa, a masterpiece of the Italian Renaissance, was painted by the polymath Leonardo da Vinci.",
+        "span": "painted by the polymath Leonardo da Vinci"
+    }
+]
